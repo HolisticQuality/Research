@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="675" viewBox="0 0 720 675" role="img">
+<rect x="0.5" y="0.5" width="719" height="674" rx="8" fill="#ffffff" stroke="#d9d4cc" stroke-width="1"/>
+<text x="24.0" y="30.0" font-family="Helvetica" font-size="13" fill="#1a1a1a" text-anchor="start" font-weight="bold">The PM2.5–dementia evidence is positive in direction but heterogeneous in design</text>
+<text x="24.0" y="49.0" font-family="Helvetica" font-size="9" fill="#888888" text-anchor="start">Source: §4 evidence table; CIs from Lancet PH 2025 [5] and Wilker 2023 [9]</text>
+<text x="24.0" y="78.0" font-family="Helvetica" font-size="10.5" fill="#1a1a1a" text-anchor="start" font-weight="bold">Pooled meta-analyses — hazard ratio (note the differing per-µg increments; the HR=1.0 null line is comparable, the</text>
+<text x="24.0" y="93.0" font-family="Helvetica" font-size="10.5" fill="#1a1a1a" text-anchor="start" font-weight="bold">magnitude is not)</text>
+<text x="24.0" y="126.0" font-family="Helvetica" font-size="10" fill="#1a1a1a" text-anchor="start" font-weight="bold">2025 Lancet Planetary Health</text>
+<text x="24.0" y="139.0" font-family="Helvetica" font-size="8" fill="#555555" text-anchor="start">meta-analysis, 21 studies, n≈24M for the PM2.5–dementia</text>
+<text x="24.0" y="150.0" font-family="Helvetica" font-size="8" fill="#555555" text-anchor="start">estimate · per 5 µg/m³</text>
+<line x1="494.4" y1="126.0" x2="628.8" y2="126.0" stroke="#1a7f37" stroke-width="1.8"/>
+<line x1="494.4" y1="122.0" x2="494.4" y2="130.0" stroke="#1a7f37" stroke-width="1.8"/>
+<line x1="628.8" y1="122.0" x2="628.8" y2="130.0" stroke="#1a7f37" stroke-width="1.8"/>
+<circle cx="561.6" cy="126.0" r="4.5" fill="#1a7f37"/>
+<text x="561.6" y="117.0" font-family="Helvetica" font-size="8.5" fill="#1a1a1a" text-anchor="middle">1.08 (1.02–1.14)</text>
+<text x="636.8" y="129.0" font-family="Helvetica" font-size="8" fill="#888888" text-anchor="start">per 5 µg/m³</text>
+<text x="360.0" y="142.0" font-family="Helvetica" font-size="8" fill="#1a7f37" text-anchor="start">significant</text>
+<text x="24.0" y="168.0" font-family="Helvetica" font-size="10" fill="#1a1a1a" text-anchor="start" font-weight="bold">2023 BMJ (Wilker)</text>
+<text x="24.0" y="181.0" font-family="Helvetica" font-size="8" fill="#555555" text-anchor="start">meta-analysis, 14 PM2.5 studies · per 2 µg/m³ · overall</text>
+<text x="24.0" y="192.0" font-family="Helvetica" font-size="8" fill="#555555" text-anchor="start">null; positive only in active-ascertainment subset</text>
+<line x1="460.8" y1="168.0" x2="572.8" y2="168.0" stroke="#c4500a" stroke-width="1.8"/>
+<line x1="460.8" y1="164.0" x2="460.8" y2="172.0" stroke="#c4500a" stroke-width="1.8"/>
+<line x1="572.8" y1="164.0" x2="572.8" y2="172.0" stroke="#c4500a" stroke-width="1.8"/>
+<circle cx="516.8" cy="168.0" r="4.5" fill="#c4500a"/>
+<text x="516.8" y="159.0" font-family="Helvetica" font-size="8.5" fill="#1a1a1a" text-anchor="middle">1.04 (0.99–1.09)</text>
+<text x="580.8" y="171.0" font-family="Helvetica" font-size="8" fill="#888888" text-anchor="start">per 2 µg/m³</text>
+<text x="360.0" y="184.0" font-family="Helvetica" font-size="8" fill="#c4500a" text-anchor="start">not significant (CI crosses 1.0)</text>
+<line x1="472.0" y1="106.0" x2="472.0" y2="196.0" stroke="#888888" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="360.0" y1="196.0" x2="360.0" y2="200.0" stroke="#888888" stroke-width="1"/>
+<text x="360.0" y="210.0" font-family="Helvetica" font-size="8" fill="#888888" text-anchor="middle">0.9</text>
+<line x1="472.0" y1="196.0" x2="472.0" y2="200.0" stroke="#888888" stroke-width="1"/>
+<text x="472.0" y="210.0" font-family="Helvetica" font-size="8" fill="#888888" text-anchor="middle">1.0</text>
+<line x1="584.0" y1="196.0" x2="584.0" y2="200.0" stroke="#888888" stroke-width="1"/>
+<text x="584.0" y="210.0" font-family="Helvetica" font-size="8" fill="#888888" text-anchor="middle">1.1</text>
+<line x1="696.0" y1="196.0" x2="696.0" y2="200.0" stroke="#888888" stroke-width="1"/>
+<text x="696.0" y="210.0" font-family="Helvetica" font-size="8" fill="#888888" text-anchor="middle">1.2</text>
+<text x="472.0" y="102.0" font-family="Helvetica" font-size="8" fill="#888888" text-anchor="middle">no effect (HR 1.0)</text>
+<text x="696.0" y="222.0" font-family="Helvetica" font-size="8" fill="#888888" text-anchor="end">hazard ratio</text>
+<text x="24.0" y="238.0" font-family="Helvetica" font-size="10.5" fill="#1a1a1a" text-anchor="start" font-weight="bold">Single-cohort estimates — different exposure contrasts, no CI reported (NOT on the same scale as the pooled HRs or each</text>
+<text x="24.0" y="253.0" font-family="Helvetica" font-size="10.5" fill="#1a1a1a" text-anchor="start" font-weight="bold">other)</text>
+<rect x="24" y="272.0" width="672" height="68.0" rx="4" fill="#faf8f5" stroke="#e5e0d8" stroke-width="1"/>
+<text x="34.0" y="288.0" font-family="Helvetica" font-size="10" fill="#1a1a1a" text-anchor="start" font-weight="bold">WHIMS (Cacciottolo 2017)</text>
+<text x="34.0" y="300.0" font-family="Helvetica" font-size="9.5" fill="#c4500a" text-anchor="start" font-weight="bold">≈ 92% higher dementia risk (HR ≈ 1.92)</text>
+<text x="34.0" y="312.0" font-family="Helvetica" font-size="8.5" fill="#555555" text-anchor="start">dichotomized: residing above vs. below the US standard (3-yr avg &gt;12 µg/m³); stronger in</text>
+<text x="34.0" y="324.0" font-family="Helvetica" font-size="8.5" fill="#555555" text-anchor="start">APOE ε4/4</text>
+<text x="34.0" y="336.0" font-family="Helvetica" font-size="8.5" fill="#b42318" text-anchor="start">no CI reported</text>
+<rect x="24" y="348.0" width="672" height="68.0" rx="4" fill="#faf8f5" stroke="#e5e0d8" stroke-width="1"/>
+<text x="34.0" y="364.0" font-family="Helvetica" font-size="10" fill="#1a1a1a" text-anchor="start" font-weight="bold">Ontario (Chen 2017)</text>
+<text x="34.0" y="376.0" font-family="Helvetica" font-size="9.5" fill="#c4500a" text-anchor="start" font-weight="bold">≈ 7% higher dementia incidence (HR ≈ 1.07)</text>
+<text x="34.0" y="388.0" font-family="Helvetica" font-size="8.5" fill="#555555" text-anchor="start">residential proximity: living within 50 m of a major road (composite traffic exposure, not</text>
+<text x="34.0" y="400.0" font-family="Helvetica" font-size="8.5" fill="#555555" text-anchor="start">PM2.5 concentration)</text>
+<text x="34.0" y="412.0" font-family="Helvetica" font-size="8.5" fill="#b42318" text-anchor="start">no CI reported</text>
+<text x="24.0" y="432.0" font-family="Helvetica" font-size="10.5" fill="#1a1a1a" text-anchor="start" font-weight="bold">Other syntheses — reported qualitatively or as a rating, not as a plottable hazard ratio</text>
+<rect x="24" y="451.0" width="672" height="46.0" rx="4" fill="#faf8f5" stroke="#e5e0d8" stroke-width="1"/>
+<text x="34.0" y="467.0" font-family="Helvetica" font-size="10" fill="#1a1a1a" text-anchor="start" font-weight="bold">US Medicare (Shi 2020)</text>
+<text x="34.0" y="479.0" font-family="Helvetica" font-size="9" fill="#1a1a1a" text-anchor="start">Significant positive association; detectable below current standards</text>
+<text x="34.0" y="491.0" font-family="Helvetica" font-size="8.5" fill="#555555" text-anchor="start">no single per-µg point estimate carried into the report</text>
+<rect x="24" y="505.0" width="672" height="58.0" rx="4" fill="#faf8f5" stroke="#e5e0d8" stroke-width="1"/>
+<text x="34.0" y="521.0" font-family="Helvetica" font-size="10" fill="#1a1a1a" text-anchor="start" font-weight="bold">SNAC-K (Grande 2020)</text>
+<text x="34.0" y="533.0" font-family="Helvetica" font-size="9" fill="#1a1a1a" text-anchor="start">Associated with dementia at low absolute levels; stroke the key intermediate (~49%), heart</text>
+<text x="34.0" y="545.0" font-family="Helvetica" font-size="9" fill="#1a1a1a" text-anchor="start">failure/IHD effect-modifiers</text>
+<text x="34.0" y="557.0" font-family="Helvetica" font-size="8.5" fill="#555555" text-anchor="start">central finding is cerebrovascular intermediation, not a magnitude</text>
+<rect x="24" y="571.0" width="672" height="62.0" rx="4" fill="#faf8f5" stroke="#e5e0d8" stroke-width="1"/>
+<text x="34.0" y="587.0" font-family="Helvetica" font-size="10" fill="#1a1a1a" text-anchor="start" font-weight="bold">Burden-of-Proof (Nature Aging 2025)</text>
+<text x="34.0" y="599.0" font-family="Helvetica" font-size="9" fill="#1a1a1a" text-anchor="start">Dementia ★★ (&quot;weak / inconsistent&quot;) · Alzheimer's ★★★ · vascular: not significant</text>
+<text x="34.0" y="611.0" font-family="Helvetica" font-size="8.5" fill="#555555" text-anchor="start">deliberately conservative scoring method; star rating, not a hazard ratio</text>
+<text x="38.0" y="627.0" font-family="Helvetica" font-size="8.5" fill="#555555" text-anchor="start">Dementia:</text>
+<polygon points="102.0,618.0 103.5,622.0 107.7,622.1 104.4,624.8 105.5,628.9 102.0,626.5 98.5,628.9 99.6,624.8 96.3,622.1 100.5,622.0" fill="#8a6d3b" stroke="#8a6d3b" stroke-width="0.6"/>
+<polygon points="118.0,618.0 119.5,622.0 123.7,622.1 120.4,624.8 121.5,628.9 118.0,626.5 114.5,628.9 115.6,624.8 112.3,622.1 116.5,622.0" fill="#8a6d3b" stroke="#8a6d3b" stroke-width="0.6"/>
+<polygon points="134.0,618.0 135.5,622.0 139.7,622.1 136.4,624.8 137.5,628.9 134.0,626.5 130.5,628.9 131.6,624.8 128.3,622.1 132.5,622.0" fill="none" stroke="#888888" stroke-width="0.8"/>
+<text x="168.0" y="627.0" font-family="Helvetica" font-size="8.5" fill="#555555" text-anchor="start">Alzheimer's:</text>
+<polygon points="248.0,618.0 249.5,622.0 253.7,622.1 250.4,624.8 251.5,628.9 248.0,626.5 244.5,628.9 245.6,624.8 242.3,622.1 246.5,622.0" fill="#8a6d3b" stroke="#8a6d3b" stroke-width="0.6"/>
+<polygon points="264.0,618.0 265.5,622.0 269.7,622.1 266.4,624.8 267.5,628.9 264.0,626.5 260.5,628.9 261.6,624.8 258.3,622.1 262.5,622.0" fill="#8a6d3b" stroke="#8a6d3b" stroke-width="0.6"/>
+<polygon points="280.0,618.0 281.5,622.0 285.7,622.1 282.4,624.8 283.5,628.9 280.0,626.5 276.5,628.9 277.6,624.8 274.3,622.1 278.5,622.0" fill="#8a6d3b" stroke="#8a6d3b" stroke-width="0.6"/>
+<text x="24.0" y="651.0" font-family="Helvetica" font-size="8.5" fill="#888888" text-anchor="start">HR = 1.0 means no association. A 95% CI that crosses 1.0 is not statistically significant.</text>
+</svg>

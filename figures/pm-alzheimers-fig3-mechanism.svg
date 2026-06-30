@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="411" viewBox="0 0 720 411" role="img">
+<rect x="0.5" y="0.5" width="719" height="410" rx="8" fill="#ffffff" stroke="#d9d4cc" stroke-width="1"/>
+<text x="24.0" y="30.0" font-family="Helvetica" font-size="12.5" fill="#1a1a1a" text-anchor="start" font-weight="bold">Candidate mechanistic pathway (most direct evidence is animal / in-vitro; human mechanistic data</text>
+<text x="24.0" y="46.0" font-family="Helvetica" font-size="12.5" fill="#1a1a1a" text-anchor="start" font-weight="bold">remain limited)</text>
+<rect x="24" y="80.0" width="672" height="27.0" rx="5" fill="#faf8f5" stroke="#1a7f37" stroke-width="2"/>
+<rect x="24" y="80.0" width="5" height="27.0" rx="0" fill="#1a7f37"/>
+<text x="40.0" y="96.0" font-family="Helvetica" font-size="10.5" fill="#1a1a1a" text-anchor="start">PM2.5 exposure</text>
+<rect x="24" y="137.0" width="672" height="27.0" rx="5" fill="#faf8f5" stroke="#1a7f37" stroke-width="2"/>
+<rect x="24" y="137.0" width="5" height="27.0" rx="0" fill="#1a7f37"/>
+<text x="40.0" y="153.0" font-family="Helvetica" font-size="10.5" fill="#1a1a1a" text-anchor="start">Systemic circulation + olfactory translocation of ultrafine particles</text>
+<rect x="24" y="194.0" width="672" height="27.0" rx="5" fill="#faf8f5" stroke="#c4500a" stroke-width="2"/>
+<rect x="24" y="194.0" width="5" height="27.0" rx="0" fill="#c4500a"/>
+<text x="40.0" y="210.0" font-family="Helvetica" font-size="10.5" fill="#1a1a1a" text-anchor="start">Neuroinflammation · oxidative stress · blood–brain-barrier disruption</text>
+<rect x="24" y="251.0" width="672" height="27.0" rx="5" fill="#faf8f5" stroke="#c4500a" stroke-width="2"/>
+<rect x="24" y="251.0" width="5" height="27.0" rx="0" fill="#c4500a"/>
+<text x="40.0" y="267.0" font-family="Helvetica" font-size="10.5" fill="#1a1a1a" text-anchor="start">Accelerated amyloid-β / tau pathology + impaired clearance</text>
+<rect x="24" y="308.0" width="672" height="27.0" rx="5" fill="#faf8f5" stroke="#8a6d3b" stroke-width="2"/>
+<rect x="24" y="308.0" width="5" height="27.0" rx="0" fill="#8a6d3b"/>
+<text x="40.0" y="324.0" font-family="Helvetica" font-size="10.5" fill="#1a1a1a" text-anchor="start">Increased Alzheimer's / dementia risk</text>
+<line x1="360.0" y1="107.0" x2="360.0" y2="131.0" stroke="#888888" stroke-width="1.6"/>
+<path d="M 356.0 130.0 L 360.0 136.0 L 364.0 130.0 Z" fill="#888888"/>
+<line x1="360.0" y1="164.0" x2="360.0" y2="188.0" stroke="#888888" stroke-width="1.6"/>
+<path d="M 356.0 187.0 L 360.0 193.0 L 364.0 187.0 Z" fill="#888888"/>
+<line x1="360.0" y1="221.0" x2="360.0" y2="245.0" stroke="#888888" stroke-width="1.6"/>
+<path d="M 356.0 244.0 L 360.0 250.0 L 364.0 244.0 Z" fill="#888888"/>
+<line x1="360.0" y1="278.0" x2="360.0" y2="302.0" stroke="#888888" stroke-width="1.6"/>
+<path d="M 356.0 301.0 L 360.0 307.0 L 364.0 301.0 Z" fill="#888888"/>
+<text x="24.0" y="367.0" font-family="Helvetica" font-size="9.5" fill="#8a6d3b" text-anchor="start">Modifier — APOE ε4 (and possibly TREM2 / complement variants) may modulate the response</text>
+<rect x="24" y="378.0" width="12" height="12" rx="2" fill="#c4500a"/>
+<text x="42.0" y="387.0" font-family="Helvetica" font-size="8.5" fill="#555555" text-anchor="start">animal / in-vitro evidence</text>
+<rect x="206.4" y="378.0" width="12" height="12" rx="2" fill="#1a7f37"/>
+<text x="224.4" y="387.0" font-family="Helvetica" font-size="8.5" fill="#555555" text-anchor="start">human tissue / physical route shown</text>
+<rect x="437.4" y="378.0" width="12" height="12" rx="2" fill="#8a6d3b"/>
+<text x="455.4" y="387.0" font-family="Helvetica" font-size="8.5" fill="#555555" text-anchor="start">coherent hypothesis, limited human data</text>
+</svg>

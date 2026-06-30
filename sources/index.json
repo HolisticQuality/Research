@@ -1,0 +1,61 @@
+{
+  "_README": "Citation manifest for the archived primary sources cited by the PM&A papers. The full-text article snapshots are NOT re-hosted here (they are third-party copyrighted material); each entry links to the publisher's canonical record (DOI/PMID) and to an archived snapshot served at holisticquality.io/receipts for link-rot protection. The snapshot SHA-256 lets a reader confirm the archived copy is unmodified.",
+  "sources": {
+    "cacciottolo-2017-whims-apoe": {
+      "title": "Cacciottolo et al. 2017, Translational Psychiatry — PM, APOE & cognitive impairment in older women",
+      "doi": "10.1038/tp.2016.280",
+      "publisher_url": "https://doi.org/10.1038/tp.2016.280",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/cacciottolo-2017-whims-apoe.htm",
+      "snapshot_sha256": "129149f68a5534ba340e90cf44647aa50fbeb77a8ef23e82aa3034b0c986e8cf",
+      "captured_at": "2026-06-09"
+    },
+    "chen-2017-roads-dementia": {
+      "title": "Chen et al. 2017, The Lancet — living near major roads & incidence of dementia (PMID 28063597)",
+      "pmid": "28063597",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/28063597/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/chen-2017-roads-dementia.htm",
+      "snapshot_sha256": "13952653d62b9f93635149130b37d74bb77dfe2fa432a4e10b4bf34d8b916224",
+      "captured_at": "2026-06-09"
+    },
+    "huang-2025-pm25-dementia-burden-of-proof": {
+      "title": "Huang et al. 2025, Nature Aging — Burden of Proof PM2.5→dementia meta-analysis",
+      "doi": "10.1038/s43587-025-00844-y",
+      "publisher_url": "https://doi.org/10.1038/s43587-025-00844-y",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/huang-2025-pm25-dementia-burden-of-proof.htm",
+      "snapshot_sha256": "cc1530f94d904a2e51d96ac349a21f7c2cbd45b1f987272da269f093187a58ed",
+      "captured_at": "2026-06-09"
+    },
+    "klepeis-2001-nhaps": {
+      "title": "Klepeis et al. 2001, J Exposure Sci Environ Epidemiol — NHAPS",
+      "doi": "10.1038/sj.jea.7500165",
+      "publisher_url": "https://doi.org/10.1038/sj.jea.7500165",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/klepeis-2001-nhaps.htm",
+      "snapshot_sha256": "84e3a93a0b992cca063b46465d9383fad8353d3af7125a85b9e79a37c3fc4b75",
+      "captured_at": "2026-06-09"
+    },
+    "lancet-ph-2025-pm-dementia-meta": {
+      "title": "Lancet Planetary Health 2025 — long-term air pollution & incident dementia meta-analysis (PMID 40716448)",
+      "pmid": "40716448",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/40716448/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/lancet-ph-2025-pm-dementia-meta.htm",
+      "snapshot_sha256": "72f4b4397c5750637a06286ea4ec92eab3614e2e30c263fe71dc402fc2cc7642",
+      "captured_at": "2026-06-09"
+    },
+    "livingston-2020-lancet-commission": {
+      "title": "Livingston et al. 2020, The Lancet — Dementia prevention 2020 Lancet Commission report (PMID 32738937)",
+      "pmid": "32738937",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/32738937/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/livingston-2020-lancet-commission.htm",
+      "snapshot_sha256": "164dfa14c43818ba7b3ffe45d7e7feb6554742cbd2aa941b46f7b39d14f1f721",
+      "captured_at": "2026-06-09"
+    },
+    "shi-2020-medicare-pm25-dementia": {
+      "title": "Shi et al. 2020, Lancet Planetary Health — PM2.5 & neurological disorders, Medicare (PMID 33091388)",
+      "pmid": "33091388",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/33091388/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/shi-2020-medicare-pm25-dementia.htm",
+      "snapshot_sha256": "8d080f4f4f9562ee128e29499ab1d4317cbf571e845dbb1c5b480c041ff46160",
+      "captured_at": "2026-06-09"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "_README": "Source of truth for the PM&A full-report figures: every plotted value is traceable to the full report and its cited primary sources via each entry's `source` field, so the figures are auditable against the report. Honesty rules: (1) no value that is not traceable to the report via its `source` field; (2) confidence intervals appear ONLY where the source reports them (Lancet PH 2025 and Wilker 2023); (3) incomparable metrics (per-5µg HR vs per-2µg HR vs dichotomized contrast vs road-proximity HR vs star-rating) are kept in SEPARATE panels, never one continuous axis; (4) the net message is 'more likely than not associated, heterogeneous' — the scorecard is deliberately mixed, not a clean sweep.",
+  "artifact_id": "pm-alzheimers-full",
+
+  "figure1_bradford_hill": {
+    "title": "Bradford Hill appraisal of the PM2.5–Alzheimer's evidence",
+    "caption": "Each consideration marked met (✓), partial (◐), or weak (✗). Source: §7 of the full report (Association versus causation). The mixed verdict — not a clean sweep — is the point: the evidence supports causation as plausible but not proven.",
+    "legend": [{"mark": "✓", "label": "met", "color": "#1a7f37"},
+               {"mark": "◐", "label": "partial", "color": "#c4500a"},
+               {"mark": "✗", "label": "weak", "color": "#b42318"}],
+    "criteria": [
+      {"name": "Temporality", "verdict": "met", "note": "Exposure precedes diagnosis by years to decades.", "source": "§7: \"Temporality holds (exposure precedes diagnosis by years to decades).\""},
+      {"name": "Consistency", "verdict": "partial", "note": "Positive and significant on the largest pooling, but null in the Wilker overall estimate — concentrated in active-ascertainment studies.", "source": "§7: \"Consistency is partial (positive and significant on the largest pooling, but null in the Wilker overall estimate — concentrated in active-ascertainment studies).\""},
+      {"name": "Dose–response", "verdict": "partial", "note": "Suggested by per-increment meta estimates and low-concentration Shi/Grande findings; Chen's gradient is road proximity (composite), so weaker concentration–response evidence than it first appears.", "source": "§7: \"Dose-response is suggested by the per-increment meta-analytic estimates and the low-concentration findings of Shi [2] and Grande [3]; note Chen's gradient [4] is by road proximity (a composite exposure), not by PM2.5 concentration…\""},
+      {"name": "Biological plausibility", "verdict": "met", "note": "Candidate mechanisms (§5) are coherent and supported by animal/in-vitro work.", "source": "§7: \"Biological plausibility and coherence hold (the mechanisms in §5 align with the cardiovascular findings in §3).\""},
+      {"name": "Coherence", "verdict": "met", "note": "Mechanistic picture coheres with the cardiovascular-mediation finding in SNAC-K.", "source": "§7: \"Biological plausibility and coherence hold (the mechanisms in §5 align with the cardiovascular findings in §3).\""},
+      {"name": "Experimental", "verdict": "partial", "note": "Animal support exists [1,7], but human randomized trials are ethically impossible.", "source": "§7: \"Experimental support exists in animals [1,7] but human trials are ethically impossible.\""},
+      {"name": "Specificity", "verdict": "weak", "note": "PM is associated with many organs and outcomes, not dementia uniquely.", "source": "§7: \"specificity is weak (PM is associated with many organs and outcomes, not dementia uniquely)\""},
+      {"name": "Strength", "verdict": "partial", "note": "Moderate (hazard ratios typically 1.05–1.5), not large.", "source": "§7: \"the strength of association is moderate (hazard ratios typically 1.05–1.5), not large\""}
+    ],
+    "bottom_line": "On balance, the evidence supports causation as plausible but not proven.",
+    "bottom_line_source": "§7: \"On balance, the evidence supports causation as plausible but not proven.\""
+  },
+
+  "figure2_evidence_landscape": {
+    "title": "The PM2.5–dementia evidence is positive in direction but heterogeneous in design",
+    "caption": "Estimates are grouped by exposure metric because they are NOT directly comparable: pooled hazard ratios use different per-µg increments, single-cohort estimates use different exposure contrasts, and one synthesis reports a star rating rather than a hazard ratio. Confidence intervals are shown only for the two studies that report them. Source: §4 evidence table; CIs from Lancet PH 2025 [5] and Wilker 2023 [9].",
+    "no_effect_note": "HR = 1.0 means no association. A 95% CI that crosses 1.0 is not statistically significant.",
+    "panels": [
+      {
+        "panel_id": "pooled",
+        "header": "Pooled meta-analyses — hazard ratio (note the differing per-µg increments; the HR=1.0 null line is comparable, the magnitude is not)",
+        "axis": {"min": 0.9, "max": 1.2, "ticks": [0.9, 1.0, 1.1, 1.2], "reference_line": 1.0},
+        "rows": [
+          {"label": "2025 Lancet Planetary Health", "sublabel": "meta-analysis, 21 studies, n≈24M for the PM2.5–dementia estimate · per 5 µg/m³", "hr": 1.08, "ci_low": 1.02, "ci_high": 1.14, "increment": "per 5 µg/m³", "significant": true, "source": "§4 table, row '2025 Lancet PH [5]': \"Pooled HR 1.08 per 5 µg/m³ (95% CI 1.02–1.14)\""},
+          {"label": "2023 BMJ (Wilker)", "sublabel": "meta-analysis, 14 PM2.5 studies · per 2 µg/m³ · overall null; positive only in active-ascertainment subset", "hr": 1.04, "ci_low": 0.99, "ci_high": 1.09, "increment": "per 2 µg/m³", "significant": false, "source": "§4 table, row 'Wilker 2023 [9]': \"Overall null (HR 1.04, 0.99–1.09); positive only in active-ascertainment subset\""}
+        ]
+      },
+      {
+        "panel_id": "single_cohort",
+        "header": "Single-cohort estimates — different exposure contrasts, no CI reported (NOT on the same scale as the pooled HRs or each other)",
+        "rows": [
+          {"label": "WHIMS (Cacciottolo 2017)", "value_text": "≈ 92% higher dementia risk (HR ≈ 1.92)", "contrast": "dichotomized: residing above vs. below the US standard (3-yr avg >12 µg/m³); stronger in APOE ε4/4", "ci": "no CI reported", "source": "§4 table, row 'Cacciottolo 2017 [1]': \"~92% higher dementia risk; stronger in APOE ε4/4\" (dichotomized above/below-standard contrast, not per-µg)"},
+          {"label": "Ontario (Chen 2017)", "value_text": "≈ 7% higher dementia incidence (HR ≈ 1.07)", "contrast": "residential proximity: living within 50 m of a major road (composite traffic exposure, not PM2.5 concentration)", "ci": "no CI reported", "source": "§4 table, row 'Chen 2017 [4]': \"HR ≈ 1.07 at <50 m; distance gradient\" (road proximity, composite exposure)"}
+        ]
+      },
+      {
+        "panel_id": "qualitative",
+        "header": "Other syntheses — reported qualitatively or as a rating, not as a plottable hazard ratio",
+        "rows": [
+          {"label": "US Medicare (Shi 2020)", "value_text": "Significant positive association; detectable below current standards", "detail": "no single per-µg point estimate carried into the report", "source": "§4 table, row 'Shi 2020 [2]': \"Higher hazard of first dementia hospitalization; effects below standards\""},
+          {"label": "SNAC-K (Grande 2020)", "value_text": "Associated with dementia at low absolute levels; stroke the key intermediate (~49%), heart failure/IHD effect-modifiers", "detail": "central finding is cerebrovascular intermediation, not a magnitude", "source": "§4 table, row 'Grande 2020 [3]': \"Associated with dementia; stroke the key intermediate (~49%); HF/IHD effect-modifiers\""},
+          {"label": "Burden-of-Proof (Nature Aging 2025)", "value_text": "Dementia ★★ (\"weak / inconsistent\") · Alzheimer's ★★★ · vascular: not significant", "detail": "deliberately conservative scoring method; star rating, not a hazard ratio", "source": "§4 table, row 'Nature Aging BoP 2025 [12]': \"Dementia 2★ ('weak/inconsistent'); Alzheimer's 3★; vascular n.s.\""}
+        ]
+      }
+    ]
+  },
+
+  "figure3_mechanism": {
+    "title": "Candidate mechanistic pathway (most direct evidence is animal / in-vitro; human mechanistic data remain limited)",
+    "caption": "A concept schematic of the pathways in §5, color-coded by the strongest evidence class behind each step. No quantities are implied. Source: §5 (Biological mechanisms) of the full report.",
+    "evidence_legend": [
+      {"key": "animal", "label": "animal / in-vitro evidence", "color": "#c4500a"},
+      {"key": "human_route", "label": "human tissue / physical route shown", "color": "#1a7f37"},
+      {"key": "hypothesis", "label": "coherent hypothesis, limited human data", "color": "#8a6d3b"}
+    ],
+    "stages": [
+      {"id": "source", "label": "PM2.5 exposure", "evidence": "human_route", "source": "§2/§5 framing"},
+      {"id": "routes", "label": "Systemic circulation + olfactory translocation of ultrafine particles", "evidence": "human_route", "source": "§5 Direct translocation: Oberdörster 2004 [10] (rodent olfactory route); Maher 2016 [11] (magnetite in human brain tissue)"},
+      {"id": "mech", "label": "Neuroinflammation · oxidative stress · blood–brain-barrier disruption", "evidence": "animal", "source": "§5 Neuroinflammation / Oxidative stress / BBB disruption (animal & in-vitro)"},
+      {"id": "pathology", "label": "Accelerated amyloid-β / tau pathology + impaired clearance", "evidence": "animal", "source": "§5 Proteinopathy: WHIMS mouse data [1], APP/PS1 [7]"},
+      {"id": "outcome", "label": "Increased Alzheimer's / dementia risk", "evidence": "hypothesis", "source": "§5–§7: plausible but not established human causation"}
+    ],
+    "modifier": {"label": "APOE ε4 (and possibly TREM2 / complement variants) may modulate the response", "evidence": "hypothesis", "source": "§5 Gene–environment interaction"}
+  }
+}
