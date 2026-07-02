@@ -105,8 +105,11 @@ Applying the **Bradford Hill** considerations to the current evidence: *temporal
 
 ## How to cite
 
-> Robey, L. (2026). *Particulate Matter and Alzheimer's Disease: Associations, Mechanisms, and Missing Links* (Version 1.0). Holistic Quality LLC. https://holisticquality.io/research/particulate-matter-and-alzheimers
-> *(A permanent DOI will be added once minted.)*
+This page is the **summary brief**. The citable version of record is the **full evidence review** — please cite that:
+
+> Robey, L. (2026). *Particulate Matter and Alzheimer's Disease: Associations, Mechanisms, and Missing Links* (full evidence review, Version 1.0). Holistic Quality LLC. https://doi.org/10.5281/zenodo.21109168
+
+The version DOI ([10.5281/zenodo.21109168](https://doi.org/10.5281/zenodo.21109168)) is frozen to v1.0; the version-independent concept DOI ([10.5281/zenodo.21109167](https://doi.org/10.5281/zenodo.21109167)) always resolves to the latest version. The full report — with the complete reference set and disclosures — is at [holisticquality.io/research/particulate-matter-and-alzheimers-full](https://holisticquality.io/research/particulate-matter-and-alzheimers-full).
 
 ---
 
@@ -114,11 +117,11 @@ Applying the **Bradford Hill** considerations to the current evidence: *temporal
 
 1. Cacciottolo M, Wang X, Driscoll I, et al. **Particulate air pollutants, APOE alleles and their contributions to cognitive impairment in older women and to amyloidogenesis in experimental models.** *Translational Psychiatry*. 2017;7(1):e1022. doi:10.1038/tp.2016.280 · PMID 28140404 · [archived](https://holisticquality.io/receipts/sources/cacciottolo-2017-whims-apoe.htm)
 2. Shi L, Wu X, Danesh Yazdi M, et al. **Long-term effects of PM2.5 on neurological disorders in the American Medicare population: a longitudinal cohort study.** *The Lancet Planetary Health*. 2020;4(12):e557–e565. doi:10.1016/S2542-5196(20)30227-8 · [archived](https://holisticquality.io/receipts/sources/shi-2020-medicare-pm25-dementia.htm)
-3. Grande G, Ljungman PLS, Eneroth K, Bellander T, Rizzuto D. **Association between cardiovascular disease and long-term exposure to air pollution with the risk of dementia.** *JAMA Neurology*. 2020;77(7):801–809. doi:10.1001/jamaneurol.2019.4914
+3. Grande G, Ljungman PLS, Eneroth K, Bellander T, Rizzuto D. **Association between cardiovascular disease and long-term exposure to air pollution with the risk of dementia.** *JAMA Neurology*. 2020;77(7):801–809. doi:10.1001/jamaneurol.2019.4914 · [archived](https://holisticquality.io/receipts/sources/grande-2020-cvd-airpollution-dementia.htm)
 4. Chen H, Kwong JC, Copes R, et al. **Living near major roads and the incidence of dementia, Parkinson's disease, and multiple sclerosis: a population-based cohort study.** *The Lancet*. 2017;389(10070):718–726. doi:10.1016/S0140-6736(16)32399-6 · PMID 28063597 · [archived](https://holisticquality.io/receipts/sources/chen-2017-roads-dementia.htm)
-5. *Long-term air pollution exposure and incident dementia: a systematic review and meta-analysis.* *The Lancet Planetary Health*. 2025. doi:10.1016/S2542-5196(25)00118-4 *(pooled adjusted HR 1.08 per 5 µg/m³ PM2.5, 95% CI 1.02–1.14; 21 studies, n ≈ 24 million for the PM2.5–dementia estimate).* · [archived](https://holisticquality.io/receipts/sources/lancet-ph-2025-pm-dementia-meta.htm)
+5. Best Rogowski CB, Bredell C, Shi Y, et al. **Long-term air pollution exposure and incident dementia: a systematic review and meta-analysis.** *The Lancet Planetary Health*. 2025;9(7):101266. doi:10.1016/S2542-5196(25)00118-4 · PMID 40716448 *(pooled adjusted HR 1.08 per 5 µg/m³ PM2.5, 95% CI 1.02–1.14; 21 studies, n ≈ 24 million for the PM2.5–dementia estimate).* · [archived](https://holisticquality.io/receipts/sources/lancet-ph-2025-pm-dementia-meta.htm)
 6. Klepeis NE, Nelson WC, Ott WR, et al. **The National Human Activity Pattern Survey (NHAPS): a resource for assessing exposure to environmental pollutants.** *Journal of Exposure Analysis and Environmental Epidemiology*. 2001;11(3):231–252. doi:10.1038/sj.jea.7500165 · [archived](https://holisticquality.io/receipts/sources/klepeis-2001-nhaps.htm)
-7. Sahu B, Mackos AR, Floden AM, Wold LE, Combs CK. **Particulate matter exposure exacerbates amyloid-β plaque deposition and gliosis in APP/PS1 mice.** *Journal of Alzheimer's Disease*. 2021;80(2):761–774. doi:10.3233/JAD-200919
+7. Sahu B, Mackos AR, Floden AM, Wold LE, Combs CK. **Particulate matter exposure exacerbates amyloid-β plaque deposition and gliosis in APP/PS1 mice.** *Journal of Alzheimer's Disease*. 2021;80(2):761–774. doi:10.3233/JAD-200919 · [archived](https://holisticquality.io/receipts/sources/sahu-2021-pm-app-ps1-amyloid.htm)
 
 *All citations were independently verified against their published sources (journal, volume, issue, pages, and DOI confirmed; the characterized finding checked against the paper). Mechanistic statements in the "Biological mechanisms" section reflect animal/in-vitro evidence unless a human study is named.*
 
@@ -128,4 +131,4 @@ Applying the **Bradford Hill** considerations to the current evidence: *temporal
 
 **Competing interests.** The author is the founder and principal of Holistic Quality LLC, the commercial publisher of this brief, which develops regulator-facing safety-data and compliance products in subject areas that include environmental and chemical exposure. A sibling property under the same parent entity, the Institute for Cognitive Sovereignty, may cite this work in public advocacy. These constitute a competing interest. To mitigate it, every claim and citation was independently source-verified, the limits of the evidence are stated throughout, and the author retained sole editorial control — no customer or third party reviewed or influenced the content.
 
-**Funding:** none (self-funded). **Data availability:** synthesis of published literature; no new data. **AI use:** produced with AI-assisted review/drafting, human-verified; the named author is responsible for all content. **ORCID:** 0009-0005-6946-3569. **Peer-review status:** self-published working paper; not peer-reviewed. Full disclosures and the complete reference set are in the [full report](https://holisticquality.io/research/particulate-matter-and-alzheimers).
+**Funding:** none (self-funded). **Data availability:** synthesis of published literature; no new data. **AI use:** produced with AI-assisted review/drafting, human-verified; the named author is responsible for all content. **ORCID:** 0009-0005-6946-3569. **Peer-review status:** self-published working paper; not peer-reviewed. Full disclosures and the complete reference set are in the [full report](https://holisticquality.io/research/particulate-matter-and-alzheimers-full).

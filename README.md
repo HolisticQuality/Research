@@ -25,10 +25,10 @@ The **primary sources** the papers cite are third-party copyrighted works; they 
 
 ## How to cite
 
-> Robey, L. (2026). *Particulate Matter and Alzheimer's Disease: Associations, Mechanisms, and Missing Links* (full evidence review, Version 1.0). Holistic Quality LLC. https://holisticquality.io/research/particulate-matter-and-alzheimers-full
+> Robey, L. (2026). *Particulate Matter and Alzheimer's Disease: Associations, Mechanisms, and Missing Links* (full evidence review, Version 1.0). Holistic Quality LLC. https://doi.org/10.5281/zenodo.21109168
 
-*(A permanent DOI will be added once the Zenodo deposit is minted; the full report is the citable version of this work.)*
+The version DOI ([10.5281/zenodo.21109168](https://doi.org/10.5281/zenodo.21109168)) is frozen to this version; the version-independent concept DOI ([10.5281/zenodo.21109167](https://doi.org/10.5281/zenodo.21109167)) always resolves to the latest version. The full report is also published at [holisticquality.io/research/particulate-matter-and-alzheimers-full](https://holisticquality.io/research/particulate-matter-and-alzheimers-full).
 
 ## Provenance
 
-These files are the published mirror of the verified source maintained by Holistic Quality LLC. The canonical cited version is pinned to a release tag (e.g. `v1.0`) so the referenced version is immutable; `main` may advance.
+These files are the published mirror of the verified source maintained by Holistic Quality LLC. The canonical cited version is pinned to a release tag (e.g. `v1.1`) so the referenced version is immutable; `main` may advance.

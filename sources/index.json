@@ -56,6 +56,46 @@
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/shi-2020-medicare-pm25-dementia.htm",
       "snapshot_sha256": "8d080f4f4f9562ee128e29499ab1d4317cbf571e845dbb1c5b480c041ff46160",
       "captured_at": "2026-06-09"
+    },
+    "grande-2020-cvd-airpollution-dementia": {
+      "title": "Grande et al. 2020, JAMA Neurology — CVD & long-term air pollution with dementia risk (PMID 32227140)",
+      "pmid": "32227140",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/32227140/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/grande-2020-cvd-airpollution-dementia.htm",
+      "snapshot_sha256": "df442faa2ea55a760aa243efdad8cabb9782d26d24ecaf1bb0ba55c35d7df314",
+      "captured_at": "2026-07-01"
+    },
+    "sahu-2021-pm-app-ps1-amyloid": {
+      "title": "Sahu et al. 2021, J Alzheimer's Disease — PM2.5 exacerbates Aβ plaque & gliosis in APP/PS1 mice (PMID 33554902)",
+      "pmid": "33554902",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/33554902/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/sahu-2021-pm-app-ps1-amyloid.htm",
+      "snapshot_sha256": "3383ba094421ed5b5367b85ff1b2e98a2bb11ad9a9059130fc3d409fbbd251ef",
+      "captured_at": "2026-07-01"
+    },
+    "wilker-2023-bmj-airpollution-dementia": {
+      "title": "Wilker et al. 2023, BMJ — ambient air pollution & clinical dementia meta-analysis (PMID 37019461)",
+      "pmid": "37019461",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/37019461/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/wilker-2023-bmj-airpollution-dementia.htm",
+      "snapshot_sha256": "75aee3cc3d60bbbb3c314c9f28710701bc267a7f78963e0564a92ae1e420e321",
+      "captured_at": "2026-07-01"
+    },
+    "oberdorster-2004-ultrafine-particle-brain-translocation": {
+      "title": "Oberdörster et al. 2004, Inhalation Toxicology — translocation of inhaled ultrafine particles to the brain (PMID 15204759)",
+      "pmid": "15204759",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/15204759/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/oberdorster-2004-ultrafine-particle-brain-translocation.htm",
+      "snapshot_sha256": "add293133f19eaa423d5a6428b52f2cc57c4cd38f636c389d1300656199ea1f0",
+      "captured_at": "2026-07-01"
+    },
+    "maher-2016-magnetite-brain-nanoparticles": {
+      "title": "Maher et al. 2016, PNAS — magnetite pollution nanoparticles in the human brain (PMID 27601646)",
+      "pmid": "27601646",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/27601646/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/maher-2016-magnetite-brain-nanoparticles.htm",
+      "snapshot_sha256": "9a82bec37ce3dd611802f89d9961a6b026f3e2ef9356fa17a81fd643b0c24e2d",
+      "captured_at": "2026-07-01"
     }
   }
 }
