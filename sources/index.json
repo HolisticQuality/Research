@@ -1,6 +1,13 @@
 {
   "_README": "Citation manifest for the archived primary sources cited by the PM&A papers. The full-text article snapshots are NOT re-hosted here (they are third-party copyrighted material); each entry links to the publisher's canonical record (DOI/PMID) and to an archived snapshot served at holisticquality.io/receipts for link-rot protection. The snapshot SHA-256 lets a reader confirm the archived copy is unmodified.",
   "sources": {
+    "atsdr-cdc-pfas-fast-facts": {
+      "title": "PFAS in the U.S. Population — Fast Facts (ATSDR/CDC)",
+      "publisher_url": "https://www.atsdr.cdc.gov/pfas/data-research/facts-stats/index.html",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/atsdr-cdc-pfas-fast-facts.htm",
+      "snapshot_sha256": "776005dc832020623bbd3aa978ef1ade2a82381e981880f6601f468e221948ab",
+      "captured_at": "2026-07-03"
+    },
     "cacciottolo-2017-whims-apoe": {
       "title": "Cacciottolo et al. 2017, Translational Psychiatry — PM, APOE & cognitive impairment in older women",
       "doi": "10.1038/tp.2016.280",
@@ -9,6 +16,20 @@
       "snapshot_sha256": "129149f68a5534ba340e90cf44647aa50fbeb77a8ef23e82aa3034b0c986e8cf",
       "captured_at": "2026-06-09"
     },
+    "cdc-national-biomonitoring-program": {
+      "title": "CDC National Biomonitoring Program — National Exposure Report",
+      "publisher_url": "https://www.cdc.gov/biomonitoring/resources/national-exposure-report.html",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/cdc-national-biomonitoring-program.htm",
+      "snapshot_sha256": "ac5117d984f093d52792915c67e1b9e8fec99d0642d228949ff7496421d4eeb2",
+      "captured_at": "2026-07-03"
+    },
+    "cf-bond-stability-forever-chemicals": {
+      "title": "Breaking the bonds of forever chemicals (CU Boulder, 2024)",
+      "publisher_url": "https://www.colorado.edu/asmagazine/2024/12/20/breaking-bonds-forever-chemicals",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/cf-bond-stability-forever-chemicals.htm",
+      "snapshot_sha256": "1a6bb614c15d9019fd9b0412e48228b5e5ad769d0fd1c2f3630c54102d150f9a",
+      "captured_at": "2026-07-03"
+    },
     "chen-2017-roads-dementia": {
       "title": "Chen et al. 2017, The Lancet — living near major roads & incidence of dementia (PMID 28063597)",
       "pmid": "28063597",
@@ -16,6 +37,42 @@
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/chen-2017-roads-dementia.htm",
       "snapshot_sha256": "13952653d62b9f93635149130b37d74bb77dfe2fa432a4e10b4bf34d8b916224",
       "captured_at": "2026-06-09"
+    },
+    "epa-2023-cancer-alley-letter-of-concern": {
+      "title": "EPA Letter of Concern, Cancer Alley Title VI (via The Regulatory Review, 2023)",
+      "publisher_url": "https://www.theregreview.org/2023/03/21/bruning-epa-finds-evidence-of-racial-discrimination-in-cancer-alley/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/epa-2023-cancer-alley-letter-of-concern.htm",
+      "snapshot_sha256": "6e43487a501c79b8cc4752ee3bf0b8a5c75cf6a3a5e7c90c0c31653cf34ef846",
+      "captured_at": "2026-07-03"
+    },
+    "epa-fy2022-superfund-population": {
+      "title": "Population Surrounding 1,881 Superfund Sites (EPA, FY2022)",
+      "publisher_url": "https://www.epa.gov/system/files/documents/2023-08/FY22%20Population%20Estimates%20Superfund%20Final.pdf",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/epa-fy2022-superfund-population.pdf",
+      "snapshot_sha256": "bb5a310989a7b10eec71bf3cc6cdc05a3ef24d9bda3e02d648e8bdc710e1851c",
+      "captured_at": "2026-07-03"
+    },
+    "frontiers-2025-louisiana-air-toxics": {
+      "title": "Air toxics and social vulnerability in Louisiana (Frontiers Public Health 2025)",
+      "publisher_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1601868/full",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/frontiers-2025-louisiana-air-toxics.htm",
+      "snapshot_sha256": "e871a62f5af4b2297e1fc0c9ce7132219ce2d2d95697909f0f1431b4e255a84a",
+      "captured_at": "2026-07-03"
+    },
+    "grande-2020-cvd-airpollution-dementia": {
+      "title": "Grande et al. 2020, JAMA Neurology — CVD & long-term air pollution with dementia risk (PMID 32227140)",
+      "pmid": "32227140",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/32227140/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/grande-2020-cvd-airpollution-dementia.htm",
+      "snapshot_sha256": "df442faa2ea55a760aa243efdad8cabb9782d26d24ecaf1bb0ba55c35d7df314",
+      "captured_at": "2026-07-01"
+    },
+    "hrw-2024-were-dying-here": {
+      "title": "We're Dying Here (Human Rights Watch, 2024)",
+      "publisher_url": "https://www.hrw.org/report/2024/01/25/were-dying-here/fight-life-louisiana-fossil-fuel-sacrifice-zone",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/hrw-2024-were-dying-here.htm",
+      "snapshot_sha256": "6870be791eabf235d241dae754a0f0b19b3afa383fa7169a94628adcb72b2cc3",
+      "captured_at": "2026-07-03"
     },
     "huang-2025-pm25-dementia-burden-of-proof": {
       "title": "Huang et al. 2025, Nature Aging — Burden of Proof PM2.5→dementia meta-analysis",
@@ -49,37 +106,27 @@
       "snapshot_sha256": "164dfa14c43818ba7b3ffe45d7e7feb6554742cbd2aa941b46f7b39d14f1f721",
       "captured_at": "2026-06-09"
     },
-    "shi-2020-medicare-pm25-dementia": {
-      "title": "Shi et al. 2020, Lancet Planetary Health — PM2.5 & neurological disorders, Medicare (PMID 33091388)",
-      "pmid": "33091388",
-      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/33091388/",
-      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/shi-2020-medicare-pm25-dementia.htm",
-      "snapshot_sha256": "8d080f4f4f9562ee128e29499ab1d4317cbf571e845dbb1c5b480c041ff46160",
-      "captured_at": "2026-06-09"
-    },
-    "grande-2020-cvd-airpollution-dementia": {
-      "title": "Grande et al. 2020, JAMA Neurology — CVD & long-term air pollution with dementia risk (PMID 32227140)",
-      "pmid": "32227140",
-      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/32227140/",
-      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/grande-2020-cvd-airpollution-dementia.htm",
-      "snapshot_sha256": "df442faa2ea55a760aa243efdad8cabb9782d26d24ecaf1bb0ba55c35d7df314",
+    "maher-2016-magnetite-brain-nanoparticles": {
+      "title": "Maher et al. 2016, PNAS — magnetite pollution nanoparticles in the human brain (PMID 27601646)",
+      "pmid": "27601646",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/27601646/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/maher-2016-magnetite-brain-nanoparticles.htm",
+      "snapshot_sha256": "9a82bec37ce3dd611802f89d9961a6b026f3e2ef9356fa17a81fd643b0c24e2d",
       "captured_at": "2026-07-01"
     },
-    "sahu-2021-pm-app-ps1-amyloid": {
-      "title": "Sahu et al. 2021, J Alzheimer's Disease — PM2.5 exacerbates Aβ plaque & gliosis in APP/PS1 mice (PMID 33554902)",
-      "pmid": "33554902",
-      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/33554902/",
-      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/sahu-2021-pm-app-ps1-amyloid.htm",
-      "snapshot_sha256": "3383ba094421ed5b5367b85ff1b2e98a2bb11ad9a9059130fc3d409fbbd251ef",
-      "captured_at": "2026-07-01"
+    "mohai-2009-proximity-ajph": {
+      "title": "Mohai et al., Racial/Socioeconomic Disparities in Proximity to Polluting Facilities (AJPH 2009)",
+      "publisher_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2774179/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/mohai-2009-proximity-ajph.htm",
+      "snapshot_sha256": "bc3085b68285ec50108af53b1ff67af9f192217407cf82b44e7483a0fa0479d8",
+      "captured_at": "2026-07-03"
     },
-    "wilker-2023-bmj-airpollution-dementia": {
-      "title": "Wilker et al. 2023, BMJ — ambient air pollution & clinical dementia meta-analysis (PMID 37019461)",
-      "pmid": "37019461",
-      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/37019461/",
-      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/wilker-2023-bmj-airpollution-dementia.htm",
-      "snapshot_sha256": "75aee3cc3d60bbbb3c314c9f28710701bc267a7f78963e0564a92ae1e420e321",
-      "captured_at": "2026-07-01"
+    "nhanes-pfas-1999-2020-envres": {
+      "title": "PFAS exposure NHANES 1999-March 2020 (Environmental Research 2025)",
+      "publisher_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12082571/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/nhanes-pfas-1999-2020-envres.htm",
+      "snapshot_sha256": "6d9cc9b12411bef14da7c499d1d317137b26db20b091003b91a64fc918b0bedf",
+      "captured_at": "2026-07-03"
     },
     "oberdorster-2004-ultrafine-particle-brain-translocation": {
       "title": "Oberdörster et al. 2004, Inhalation Toxicology — translocation of inhaled ultrafine particles to the brain (PMID 15204759)",
@@ -89,13 +136,99 @@
       "snapshot_sha256": "add293133f19eaa423d5a6428b52f2cc57c4cd38f636c389d1300656199ea1f0",
       "captured_at": "2026-07-01"
     },
-    "maher-2016-magnetite-brain-nanoparticles": {
-      "title": "Maher et al. 2016, PNAS — magnetite pollution nanoparticles in the human brain (PMID 27601646)",
-      "pmid": "27601646",
-      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/27601646/",
-      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/maher-2016-magnetite-brain-nanoparticles.htm",
-      "snapshot_sha256": "9a82bec37ce3dd611802f89d9961a6b026f3e2ef9356fa17a81fd643b0c24e2d",
+    "robinson-2025-pnas-cancer-alley": {
+      "title": "Robinson et al., measured air pollution & disparate cancer risk in Louisiana (PNAS 2025)",
+      "publisher_url": "https://www.pnas.org/doi/10.1073/pnas.2504770122",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/robinson-2025-pnas-cancer-alley.htm",
+      "snapshot_sha256": "04dcd1e767afa5ea744592380e063283f53de1d5e174e19441b8895a2fc1b1fe",
+      "captured_at": "2026-07-03"
+    },
+    "sahu-2021-pm-app-ps1-amyloid": {
+      "title": "Sahu et al. 2021, J Alzheimer's Disease — PM2.5 exacerbates Aβ plaque & gliosis in APP/PS1 mice (PMID 33554902)",
+      "pmid": "33554902",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/33554902/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/sahu-2021-pm-app-ps1-amyloid.htm",
+      "snapshot_sha256": "3383ba094421ed5b5367b85ff1b2e98a2bb11ad9a9059130fc3d409fbbd251ef",
       "captured_at": "2026-07-01"
+    },
+    "shi-2020-medicare-pm25-dementia": {
+      "title": "Shi et al. 2020, Lancet Planetary Health — PM2.5 & neurological disorders, Medicare (PMID 33091388)",
+      "pmid": "33091388",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/33091388/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/shi-2020-medicare-pm25-dementia.htm",
+      "snapshot_sha256": "8d080f4f4f9562ee128e29499ab1d4317cbf571e845dbb1c5b480c041ff46160",
+      "captured_at": "2026-06-09"
+    },
+    "wilker-2023-bmj-airpollution-dementia": {
+      "title": "Wilker et al. 2023, BMJ — ambient air pollution & clinical dementia meta-analysis (PMID 37019461)",
+      "pmid": "37019461",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/37019461/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/wilker-2023-bmj-airpollution-dementia.htm",
+      "snapshot_sha256": "75aee3cc3d60bbbb3c314c9f28710701bc267a7f78963e0564a92ae1e420e321",
+      "captured_at": "2026-07-01"
+    },
+    "schwabl-2019-microplastics-human-stool": {
+      "title": "Schwabl et al., Detection of Various Microplastics in Human Stool (Annals of Internal Medicine 2019)",
+      "pmid": "31476765",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/31476765/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/schwabl-2019-microplastics-human-stool.htm",
+      "snapshot_sha256": "29ed45c94a32f23a4736e68489037db83e0bcdeabde7d325aed57406b7bd2ca7",
+      "captured_at": "2026-06-10"
+    },
+    "leslie-2022-microplastics-human-blood": {
+      "title": "Leslie et al., Discovery and quantification of plastic particle pollution in human blood (Environment International 2022)",
+      "pmid": "35367073",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/35367073/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/leslie-2022-microplastics-human-blood.htm",
+      "snapshot_sha256": "3e6998cca3e24e4271f8ad0cfb830dee89d97add6e80e03d3c2b861430487eb6",
+      "captured_at": "2026-06-10"
+    },
+    "ragusa-2021-microplastics-human-placenta": {
+      "title": "Ragusa et al., Plasticenta: First evidence of microplastics in human placenta (Environment International 2021)",
+      "pmid": "33395930",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/33395930/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/ragusa-2021-microplastics-human-placenta.htm",
+      "snapshot_sha256": "f06fe24844c9056992041c5a071f4dc5af4e0c2a8238bb249c54e48765ee6db8",
+      "captured_at": "2026-06-10"
+    },
+    "cox-2019-human-consumption-microplastics": {
+      "title": "Cox et al., Human Consumption of Microplastics (Environmental Science & Technology 2019)",
+      "pmid": "31184127",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/31184127/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/cox-2019-human-consumption-microplastics.htm",
+      "snapshot_sha256": "4fa7662b78b49c9721af58ea0cee93d2af007bb94de52e472908fde62dc75160",
+      "captured_at": "2026-07-02"
+    },
+    "who-2019-microplastics-drinking-water": {
+      "title": "World Health Organization, Microplastics in drinking-water (WHO 2019)",
+      "publisher_url": "https://www.who.int/news/item/22-08-2019-who-calls-for-more-research-into-microplastics-and-a-crackdown-on-plastic-pollution",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/who-2019-microplastics-drinking-water.htm",
+      "snapshot_sha256": "ba515b2a54f7114fece1d56b5524312c769c3ddac4a89497f813aadf7a540c85",
+      "captured_at": "2026-07-02"
+    },
+    "yong-2020-toxicity-micro-nanoplastics-mammalian": {
+      "title": "Yong et al., Toxicity of Microplastics and Nanoplastics in Mammalian Systems (IJERPH 2020)",
+      "pmid": "32111046",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/32111046/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/yong-2020-toxicity-micro-nanoplastics-mammalian.htm",
+      "snapshot_sha256": "e746e5c408f758ed0ef2d4866454bfaed17b2efd27dcd6b8744c0477910ae426",
+      "captured_at": "2026-07-02"
+    },
+    "wright-kelly-2017-plastic-human-health": {
+      "title": "Wright & Kelly, Plastic and Human Health: A Micro Issue? (Environmental Science & Technology 2017)",
+      "pmid": "28531345",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/28531345/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/wright-kelly-2017-plastic-human-health.htm",
+      "snapshot_sha256": "c42c9d1eb017ae1a2f8a9ce1efdc2fb5e09640bd77f3e9e599e37737ac17df2b",
+      "captured_at": "2026-07-02"
+    },
+    "vethaak-legler-2021-microplastics-human-health": {
+      "title": "Vethaak & Legler, Microplastics and human health (Science 2021)",
+      "pmid": "33574197",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/33574197/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/vethaak-legler-2021-microplastics-human-health.htm",
+      "snapshot_sha256": "6cd592f10010ec73549cbdb6193b2aa86a6919e5d666f3c49ab3ad4d0fb1063c",
+      "captured_at": "2026-07-02"
     }
   }
 }
