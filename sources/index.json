@@ -5,7 +5,7 @@
       "title": "PFAS in the U.S. Population — Fast Facts (ATSDR/CDC)",
       "publisher_url": "https://www.atsdr.cdc.gov/pfas/data-research/facts-stats/index.html",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/atsdr-cdc-pfas-fast-facts.htm",
-      "snapshot_sha256": "fc5f01b38a08e6b47d693679da4abbaf4dc43e0442b7e9c66d8c27e11492a2df",
+      "snapshot_sha256": "90434c00c3f6f93c800fdb518eb2d39cddba3ce64afad0f2d199755c2ff200d7",
       "captured_at": "2026-07-03"
     },
     "cacciottolo-2017-whims-apoe": {
@@ -13,21 +13,21 @@
       "doi": "10.1038/tp.2016.280",
       "publisher_url": "https://doi.org/10.1038/tp.2016.280",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/cacciottolo-2017-whims-apoe.htm",
-      "snapshot_sha256": "385063bbf742a306b8f9828cbe9b4c2cc46577d10449763a9bcd567fbc6fd55f",
+      "snapshot_sha256": "ac282843f652ebb752809daf22a95e7c26a305291998a35dff54052167f6f786",
       "captured_at": "2026-06-09"
     },
     "cdc-national-biomonitoring-program": {
       "title": "CDC National Biomonitoring Program — National Exposure Report",
       "publisher_url": "https://www.cdc.gov/biomonitoring/resources/national-exposure-report.html",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/cdc-national-biomonitoring-program.htm",
-      "snapshot_sha256": "8bdc6426995b069a04defb2a46567f9b086bd9cdc2387538ada3a40beb3ec8c2",
+      "snapshot_sha256": "cad3cde08230565e52c82d81e179fee922fea917fbdc084c86e8bacf7fd81e14",
       "captured_at": "2026-07-03"
     },
     "cf-bond-stability-forever-chemicals": {
       "title": "Breaking the bonds of forever chemicals (CU Boulder, 2024)",
       "publisher_url": "https://www.colorado.edu/asmagazine/2024/12/20/breaking-bonds-forever-chemicals",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/cf-bond-stability-forever-chemicals.htm",
-      "snapshot_sha256": "7c59ec30e33df05b9165193a8939281dc53b7be71520c2277f371fe68808dd67",
+      "snapshot_sha256": "f1032c6496021f6d8b37472322c014a7ce3d2dfb8838cf18c19e65b621700939",
       "captured_at": "2026-07-03"
     },
     "chen-2017-roads-dementia": {
@@ -35,14 +35,14 @@
       "pmid": "28063597",
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/28063597/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/chen-2017-roads-dementia.htm",
-      "snapshot_sha256": "30ba16696be4fa0135f8a7b65bea3fe953e2ebe5645670df50afbb444d3ad306",
+      "snapshot_sha256": "778f891782aa699ed88d59caf677d0deb5cc6cf99b299c361bf9ea1721cf0df7",
       "captured_at": "2026-06-09"
     },
     "epa-2023-cancer-alley-letter-of-concern": {
       "title": "EPA Letter of Concern, Cancer Alley Title VI (via The Regulatory Review, 2023)",
       "publisher_url": "https://www.theregreview.org/2023/03/21/bruning-epa-finds-evidence-of-racial-discrimination-in-cancer-alley/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/epa-2023-cancer-alley-letter-of-concern.htm",
-      "snapshot_sha256": "92faead7594b235bd8d045736f37cc2faca5917c7293c65134bc5512703950dd",
+      "snapshot_sha256": "be8ccea89a491fe51cd8e1a8139c0333aa9f232186aeee459ea0e284ab7f2e9c",
       "captured_at": "2026-07-03"
     },
     "epa-fy2022-superfund-population": {
@@ -56,7 +56,7 @@
       "title": "Air toxics and social vulnerability in Louisiana (Frontiers Public Health 2025)",
       "publisher_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1601868/full",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/frontiers-2025-louisiana-air-toxics.htm",
-      "snapshot_sha256": "27c3b85f5ddf3433ec9293cf009273e81735db0b0d7a3ef8181a61b04c0ff628",
+      "snapshot_sha256": "517449a259d126c86503972e8d36e1b9f12d43114ca4e7e59ef5f047f4a44ace",
       "captured_at": "2026-07-03"
     },
     "grande-2020-cvd-airpollution-dementia": {
@@ -64,14 +64,14 @@
       "pmid": "32227140",
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/32227140/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/grande-2020-cvd-airpollution-dementia.htm",
-      "snapshot_sha256": "8d9dee1f3690daea74dd790c83ee427267e3eb50655497e2a983fc0dd392381b",
+      "snapshot_sha256": "9aa1bac024f8524870debfda54ddec064a20e375969491a445fff912b6caa896",
       "captured_at": "2026-07-01"
     },
     "hrw-2024-were-dying-here": {
       "title": "We're Dying Here (Human Rights Watch, 2024)",
       "publisher_url": "https://www.hrw.org/report/2024/01/25/were-dying-here/fight-life-louisiana-fossil-fuel-sacrifice-zone",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/hrw-2024-were-dying-here.htm",
-      "snapshot_sha256": "365a5131d648c6ed3ad0a514075b66ac7fb8e89e931e35873b1261e76e1ff8f2",
+      "snapshot_sha256": "502fa83b607ff20f9c6f8a508e8b9463dd811f570d09bb9a58de50fcdf5327d6",
       "captured_at": "2026-07-03"
     },
     "huang-2025-pm25-dementia-burden-of-proof": {
@@ -79,7 +79,7 @@
       "doi": "10.1038/s43587-025-00844-y",
       "publisher_url": "https://doi.org/10.1038/s43587-025-00844-y",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/huang-2025-pm25-dementia-burden-of-proof.htm",
-      "snapshot_sha256": "f0c2abf0081ac459aa962eeeff5f3c37186bdf7e349b0bc2f65559ed94a51dfe",
+      "snapshot_sha256": "4a08f1e630e79509fe18d8fb7ef3ec23b0bca7e48765be35429f4782a1c2f658",
       "captured_at": "2026-06-09"
     },
     "klepeis-2001-nhaps": {
@@ -87,7 +87,7 @@
       "doi": "10.1038/sj.jea.7500165",
       "publisher_url": "https://doi.org/10.1038/sj.jea.7500165",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/klepeis-2001-nhaps.htm",
-      "snapshot_sha256": "88762b5d25ea714fe28bbf9dac40e3e2a86c54d343aa35f4e9d165f5340f156c",
+      "snapshot_sha256": "5b4c8c297c258c94f1e459bdf23d2c424862bb17d31fc0b68e3a628631dcccda",
       "captured_at": "2026-06-09"
     },
     "lancet-ph-2025-pm-dementia-meta": {
@@ -95,7 +95,7 @@
       "pmid": "40716448",
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/40716448/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/lancet-ph-2025-pm-dementia-meta.htm",
-      "snapshot_sha256": "dc39c35ffbdbce57acb1890c5d594438c7ce9caf22b8afe200266270d8c1b52f",
+      "snapshot_sha256": "9181007b36fd0a91d087622d92cd3011d55d14eb6fa7b999d34b0a0d2d5198d4",
       "captured_at": "2026-06-09"
     },
     "livingston-2020-lancet-commission": {
@@ -103,7 +103,7 @@
       "pmid": "32738937",
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/32738937/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/livingston-2020-lancet-commission.htm",
-      "snapshot_sha256": "0480613ae51f4821a1839267f1d06689fa40e3304829f99a33c75f8a92c1c9ff",
+      "snapshot_sha256": "9b9839543c8211a5993ae3a24ac5a150bb9ab5e5a019a0d8841bb82227802036",
       "captured_at": "2026-06-09"
     },
     "maher-2016-magnetite-brain-nanoparticles": {
@@ -111,21 +111,21 @@
       "pmid": "27601646",
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/27601646/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/maher-2016-magnetite-brain-nanoparticles.htm",
-      "snapshot_sha256": "eb87bfec75d69311eb190a807943b59affa0b40ccbfc9e353c964509f3648c0e",
+      "snapshot_sha256": "4e3e4cd6cab77eae1e0acdd730f9ed28b96d251129f057de7fc351616a0fd36f",
       "captured_at": "2026-07-01"
     },
     "mohai-2009-proximity-ajph": {
       "title": "Mohai et al., Racial/Socioeconomic Disparities in Proximity to Polluting Facilities (AJPH 2009)",
       "publisher_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2774179/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/mohai-2009-proximity-ajph.htm",
-      "snapshot_sha256": "7a3b6f3d6b3f1529e42ac4bac2d71400e99461c6892c7f47a112e80134665d79",
+      "snapshot_sha256": "15276da028d0dc4eaa34c3078073e414c6c2449b6e74fea458f13db5bc157d8f",
       "captured_at": "2026-07-03"
     },
     "nhanes-pfas-1999-2020-envres": {
       "title": "PFAS exposure NHANES 1999-March 2020 (Environmental Research 2025)",
       "publisher_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12082571/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/nhanes-pfas-1999-2020-envres.htm",
-      "snapshot_sha256": "abdb08d78a68390f27177e89b2d5a44a9affc462c61bb82f91d65dc9621d0370",
+      "snapshot_sha256": "cc5170a945f11466ab2bdc6595a9f24801b65be7d9c3104f6fbdcd13945b18cb",
       "captured_at": "2026-07-03"
     },
     "oberdorster-2004-ultrafine-particle-brain-translocation": {
@@ -133,14 +133,14 @@
       "pmid": "15204759",
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/15204759/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/oberdorster-2004-ultrafine-particle-brain-translocation.htm",
-      "snapshot_sha256": "1384b021d743f594880f378edd8ad0951c9ed8a71d5f8f9dfab4ebf5402fcdf6",
+      "snapshot_sha256": "6cc7d489d21f463a8eb726111b192dbf55b14d62e94f13b365b3272e8fb41a4c",
       "captured_at": "2026-07-01"
     },
     "robinson-2025-pnas-cancer-alley": {
       "title": "Robinson et al., measured air pollution & disparate cancer risk in Louisiana (PNAS 2025)",
       "publisher_url": "https://www.pnas.org/doi/10.1073/pnas.2504770122",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/robinson-2025-pnas-cancer-alley.htm",
-      "snapshot_sha256": "45513d24b1e2feb64cecc9e12cf9ddf5fae5b5510b35f35d1395a4858e1173be",
+      "snapshot_sha256": "9f601ee8cb57c53a2869edbb735373cf12c02e75be7e6112a859c9b6c30c6c41",
       "captured_at": "2026-07-03"
     },
     "sahu-2021-pm-app-ps1-amyloid": {
@@ -148,7 +148,7 @@
       "pmid": "33554902",
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/33554902/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/sahu-2021-pm-app-ps1-amyloid.htm",
-      "snapshot_sha256": "ba6577edfdfdd2fe8ac9c2a6b38842401842e337a20a049dafaf4c0470cea888",
+      "snapshot_sha256": "0218fded006ac44f560101fbc0cc1b908985c3b820770dca94f1beb30bd1d18e",
       "captured_at": "2026-07-01"
     },
     "shi-2020-medicare-pm25-dementia": {
@@ -156,7 +156,7 @@
       "pmid": "33091388",
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/33091388/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/shi-2020-medicare-pm25-dementia.htm",
-      "snapshot_sha256": "8de7e70844264be91f603c89dd8eb7c573c39a7c208b0c655e26788c466e0bef",
+      "snapshot_sha256": "69bcd0531e15c31c65260f045347a66100d1688c1c1e2f57a9da112db8149f52",
       "captured_at": "2026-06-09"
     },
     "wilker-2023-bmj-airpollution-dementia": {
@@ -164,7 +164,7 @@
       "pmid": "37019461",
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/37019461/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/wilker-2023-bmj-airpollution-dementia.htm",
-      "snapshot_sha256": "bcf10522a4c92a0ff6c5e2035d7e0f0c21350bc388c7baf9d89bd53eacb2ab58",
+      "snapshot_sha256": "aeb57dd14b2fb3bbcfe95baaf8434bd4b1a168192bc43d5d566e5d746797c424",
       "captured_at": "2026-07-01"
     },
     "schwabl-2019-microplastics-human-stool": {
@@ -172,7 +172,7 @@
       "pmid": "31476765",
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/31476765/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/schwabl-2019-microplastics-human-stool.htm",
-      "snapshot_sha256": "502f88cdfc04171182b29051c2569e05ee199ebb6b47cdda0950e504b12d2b9c",
+      "snapshot_sha256": "03aeb4cfb7673fec7e5ca057b7809a5dfecf6da7bd66f810b9aac1065cbf02f4",
       "captured_at": "2026-06-10"
     },
     "leslie-2022-microplastics-human-blood": {
@@ -180,7 +180,7 @@
       "pmid": "35367073",
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/35367073/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/leslie-2022-microplastics-human-blood.htm",
-      "snapshot_sha256": "2eb9a4a263d11127eba87dfb425a2027a1b21cf9a7684a5f4d13249fc7ba8e12",
+      "snapshot_sha256": "5eeffa7dfce69170884334225b04a16040b87159393532f3312ccd9e9a581f58",
       "captured_at": "2026-06-10"
     },
     "ragusa-2021-microplastics-human-placenta": {
@@ -188,7 +188,7 @@
       "pmid": "33395930",
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/33395930/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/ragusa-2021-microplastics-human-placenta.htm",
-      "snapshot_sha256": "a2144239ab42f9bb435a096b4542f3ef5b4f4966ba88a9125ccb62dfdaf76d0d",
+      "snapshot_sha256": "09e8ee1674939938be1ba4d1dd1669576bec2adba738fbfed40ceb63253b02e8",
       "captured_at": "2026-06-10"
     },
     "cox-2019-human-consumption-microplastics": {
@@ -196,14 +196,14 @@
       "pmid": "31184127",
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/31184127/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/cox-2019-human-consumption-microplastics.htm",
-      "snapshot_sha256": "11485ec350f03aee7d3cd1bb0b02d392345041eea4cb85f8f6e055215b91a759",
+      "snapshot_sha256": "6c12597c517125f5cd55d404f5e7cec16a207e7a6e88fd2fad120a01339262a6",
       "captured_at": "2026-07-02"
     },
     "who-2019-microplastics-drinking-water": {
       "title": "World Health Organization, Microplastics in drinking-water (WHO 2019)",
       "publisher_url": "https://www.who.int/news/item/22-08-2019-who-calls-for-more-research-into-microplastics-and-a-crackdown-on-plastic-pollution",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/who-2019-microplastics-drinking-water.htm",
-      "snapshot_sha256": "2f09bc33ccbe57360fb1bd39fe9fdf0bbe1dda3bc52ebe94de3515e301d9484e",
+      "snapshot_sha256": "ddce4c63e301f27b43cd68b581f914488eab11bfd90d690a1b2d26ffa54c2baf",
       "captured_at": "2026-07-02"
     },
     "yong-2020-toxicity-micro-nanoplastics-mammalian": {
@@ -211,7 +211,7 @@
       "pmid": "32111046",
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/32111046/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/yong-2020-toxicity-micro-nanoplastics-mammalian.htm",
-      "snapshot_sha256": "173843394785487096601c7c843147187458c7b715cb1e5f96c60a3cc6207fba",
+      "snapshot_sha256": "f8fc159d719b434bbb8ccf846bf5def5f506da5921af29dca23d556f47ae8cca",
       "captured_at": "2026-07-02"
     },
     "wright-kelly-2017-plastic-human-health": {
@@ -219,7 +219,7 @@
       "pmid": "28531345",
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/28531345/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/wright-kelly-2017-plastic-human-health.htm",
-      "snapshot_sha256": "cf27f98521dc9e118f8670f2a78e07a2d0f5366ab312d01992ab96331d81ee7d",
+      "snapshot_sha256": "1ef4b9f64945560dfbaca3e4e17e295bbe5db11a3f59bb93f022759f666ed293",
       "captured_at": "2026-07-02"
     },
     "vethaak-legler-2021-microplastics-human-health": {
@@ -227,14 +227,14 @@
       "pmid": "33574197",
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/33574197/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/vethaak-legler-2021-microplastics-human-health.htm",
-      "snapshot_sha256": "e34df7805918c669b52038ff5347ab953c94779dc10a29bd43e200d87502296e",
+      "snapshot_sha256": "cc513797eeb4da009fcf3549b4debfa25c84cd501405267da2dc861d941d243e",
       "captured_at": "2026-07-02"
     },
     "owen-2010-brain-training-nature": {
       "title": "Owen et al. 2010, Nature — Putting brain training to the test (PMID 20407435)",
       "publisher_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2884087/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/owen-2010-brain-training-nature.htm",
-      "snapshot_sha256": "63de3429e350c8bd435b2569069971cc08d6a18bbf8003dfa41c0ebbcd57f99d",
+      "snapshot_sha256": "c5a120a92123de068cb80446c27697d6fc1222983bf3873b45daabe78b40f944",
       "captured_at": "2026-07-04"
     },
     "simons-2016-brain-training-pspi": {
@@ -242,7 +242,7 @@
       "pmid": "27697851",
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/27697851/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/simons-2016-brain-training-pspi.htm",
-      "snapshot_sha256": "e7a347274236671a355319705426408f90e3472039dd5cb7939cd6500eb10a16",
+      "snapshot_sha256": "c06ea756698f593ff1b31b8be5bba2c73ea092e3ab680ad092584e4cfc482458",
       "captured_at": "2026-07-04"
     },
     "melby-lervag-2013-wm-training": {
@@ -250,56 +250,56 @@
       "pmid": "22612437",
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/22612437/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/melby-lervag-2013-wm-training.htm",
-      "snapshot_sha256": "09ff9fffab2b3bf4d00842bce720ab6bad8a272711560fdc35d43e26b36d60ba",
+      "snapshot_sha256": "3cec252f0deba156faadbece7ab3347327774561658e53c41e629aadbbf6d743",
       "captured_at": "2026-07-04"
     },
     "melby-lervag-2016-far-transfer": {
       "title": "Melby-Lervag, Redick & Hulme 2016, Perspectives on Psychological Science — no far transfer from WM training (PMC4968033)",
       "publisher_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4968033/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/melby-lervag-2016-far-transfer.htm",
-      "snapshot_sha256": "5cfc5e9f3539026f37a7df62d65531e7b883fede5d59a56a8e6849e49aa8d13e",
+      "snapshot_sha256": "4d994812b3ed3eb68dd92e6e9c0b19eb19e03f3d4ed02a4d455b780fa6ea1121",
       "captured_at": "2026-07-04"
     },
     "stanford-maxplanck-2014-consensus": {
       "title": "Stanford Center on Longevity & Max Planck Institute 2014 — A Consensus on the Brain Training Industry",
       "publisher_url": "https://longevity.stanford.edu/a-consensus-on-the-brain-training-industry-from-the-scientific-community-2/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/stanford-maxplanck-2014-consensus.htm",
-      "snapshot_sha256": "b3e84c7303575f4389285d9a406b1eedd092594fbca01aa7deabb7b833b58f44",
+      "snapshot_sha256": "6ed7bacbc442507c4df4ecddb3069f7bf543d5cf98788bb7886697a11584d2e2",
       "captured_at": "2026-07-04"
     },
     "cognitive-training-data-2014-response": {
       "title": "Cognitive Training Data 2014 — Response to the 'Consensus on the Brain Training Industry' statement",
       "publisher_url": "https://www.cognitivetrainingdata.org/the-controversy-does-brain-training-work/response-letter/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/cognitive-training-data-2014-response.htm",
-      "snapshot_sha256": "f9acb9aadfbabef9452bb43a58073dc9e4112d3b31e8b51cfc7aebd88e2cbb1c",
+      "snapshot_sha256": "f5a09bf115104650f04cb62550335ad0b281b8186204430b223c12771f430fb8",
       "captured_at": "2026-07-04"
     },
     "ftc-2016-lumosity-settlement": {
       "title": "U.S. Federal Trade Commission 2016 — Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges (matter 132-3212)",
       "publisher_url": "https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/ftc-2016-lumosity-settlement.htm",
-      "snapshot_sha256": "701aebc328448f17025de06d30d9243cd5906ba3eda7bc83e99d13bc58eda2a2",
+      "snapshot_sha256": "1d6f819857270bc85f0bf445ce0f4e09205d23ce0162e1fa5f63becdfa589caf",
       "captured_at": "2026-07-04"
     },
     "ball-2002-active-jama": {
       "title": "Ball et al. 2002, JAMA — ACTIVE cognitive training RCT in older adults (PMID 12425704)",
       "publisher_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2916176/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/ball-2002-active-jama.htm",
-      "snapshot_sha256": "31028f4ca7b21f87e7c5209206ebcbcdbb1a1948c7debddc6b24cfddbae3b15e",
+      "snapshot_sha256": "42ff8b7e953ca00e2ba51e38b1f897420f9a8e6b2c32dce66efdb448f65b8a9e",
       "captured_at": "2026-07-04"
     },
     "rebok-2014-active-10yr": {
       "title": "Rebok et al. 2014, J Am Geriatr Soc — Ten-Year Effects of the ACTIVE Cognitive Training Trial (PMID 24417410)",
       "publisher_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4055506/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/rebok-2014-active-10yr.htm",
-      "snapshot_sha256": "2178c212aaaba4d3b1cd461138132df38ab13ed2b466c6b04150dc425729520a",
+      "snapshot_sha256": "66c8a573bd383c458ef095630b98ffd841ae6647316294e164c526f8862f29ab",
       "captured_at": "2026-07-04"
     },
     "edwards-2017-speed-dementia": {
       "title": "Edwards et al. 2017, Alzheimer's & Dementia TRCI — Speed of processing training and lower dementia risk (PMID 29201994)",
       "publisher_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5700828/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/edwards-2017-speed-dementia.htm",
-      "snapshot_sha256": "84b5eb4b8750bec8755253a4a561845844f8c8b306c13ee89b6d523c66fde755",
+      "snapshot_sha256": "3d6dd1b57c4ca964bdd41c1c88fa7fd4fdd08ab4cd19ea1ca4a55dbacf953ca2",
       "captured_at": "2026-07-04"
     },
     "hausknecht-2007-retest-meta": {
@@ -307,7 +307,7 @@
       "pmid": "17371085",
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/17371085/",
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/hausknecht-2007-retest-meta.htm",
-      "snapshot_sha256": "2351b67f6dc40d43708fe33c43f4b0086112b567423aad41f9c41384fa2733cf",
+      "snapshot_sha256": "c2fa84c917533f1f535813013f9d80ec5c68c1775d7f4d145cfcc689d3939cb7",
       "captured_at": "2026-07-04"
     }
   }
