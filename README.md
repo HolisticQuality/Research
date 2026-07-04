@@ -24,7 +24,9 @@ The **primary sources** the papers cite are third-party copyrighted works; they 
 | [`papers/microplastics-and-the-human-body.md`](papers/microplastics-and-the-human-body.md) | Summary brief of the above |
 | [`papers/pfas-body-burden-full.md`](papers/pfas-body-burden-full.md) | Full evidence review — PFAS body burden and the uneven distribution of industrial chemical exposure (the citable version of record) |
 | [`papers/pfas-body-burden.md`](papers/pfas-body-burden.md) | Summary brief of the above |
-| [`figures/`](figures/) | The three PM&A report figures (SVG) + `figures-data.json` (the sourced values each figure renders); the microplastics and PFAS reports carry no figures |
+| [`papers/cognitive-training-efficacy-full.md`](papers/cognitive-training-efficacy-full.md) | Full evidence review — what cognitive training does and does not improve (near vs far transfer) (the citable version of record) |
+| [`papers/cognitive-training-efficacy.md`](papers/cognitive-training-efficacy.md) | Summary brief of the above |
+| [`figures/`](figures/) | The three PM&A report figures (SVG) + `figures-data.json` (the sourced values each figure renders); the microplastics, PFAS, and cognitive-training reports carry no figures |
 | [`sources/index.json`](sources/index.json) | Citation manifest — each cited source's title, DOI/PMID, publisher URL, and an archived-snapshot URL (on holisticquality.io, with SHA-256) for verification and link-rot protection |
 
 ## How to cite
@@ -36,8 +38,10 @@ Each full report is a separately citable Zenodo deposit:
 > Robey, L. (2026). *Microplastics and the Human Body: Exposure, Translocation, and the Margin-of-Exposure Question* (full evidence review, Version 1.0). Holistic Quality LLC. https://doi.org/10.5281/zenodo.21172814
 >
 > Robey, L. (2026). *PFAS Body Burden and the Uneven Distribution of Industrial Chemical Exposure* (full evidence review, Version 1.0). Holistic Quality LLC. https://doi.org/10.5281/zenodo.21181282
+>
+> Robey, L. (2026). *What Cognitive Training Does and Does Not Improve: The Evidence on Transfer* (full evidence review, Version 1.0). Holistic Quality LLC. https://doi.org/10.5281/zenodo.21196977
 
-Each version DOI is frozen to its v1.0; each deposit also carries a version-independent concept DOI that always resolves to the latest version (PM&A [10.5281/zenodo.21109167](https://doi.org/10.5281/zenodo.21109167), microplastics [10.5281/zenodo.21172813](https://doi.org/10.5281/zenodo.21172813), PFAS [10.5281/zenodo.21181281](https://doi.org/10.5281/zenodo.21181281)). The reports are also published at [holisticquality.io/research](https://holisticquality.io/research).
+Each version DOI is frozen to its v1.0; each deposit also carries a version-independent concept DOI that always resolves to the latest version (PM&A [10.5281/zenodo.21109167](https://doi.org/10.5281/zenodo.21109167), microplastics [10.5281/zenodo.21172813](https://doi.org/10.5281/zenodo.21172813), PFAS [10.5281/zenodo.21181281](https://doi.org/10.5281/zenodo.21181281), cognitive-training [10.5281/zenodo.21196976](https://doi.org/10.5281/zenodo.21196976)). The reports are also published at [holisticquality.io/research](https://holisticquality.io/research).
 
 ## Provenance
 

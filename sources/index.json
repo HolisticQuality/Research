@@ -229,6 +229,86 @@
       "archived_snapshot_url": "https://holisticquality.io/receipts/sources/vethaak-legler-2021-microplastics-human-health.htm",
       "snapshot_sha256": "6cd592f10010ec73549cbdb6193b2aa86a6919e5d666f3c49ab3ad4d0fb1063c",
       "captured_at": "2026-07-02"
+    },
+    "owen-2010-brain-training-nature": {
+      "title": "Owen et al. 2010, Nature — Putting brain training to the test (PMID 20407435)",
+      "publisher_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2884087/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/owen-2010-brain-training-nature.htm",
+      "snapshot_sha256": "a0f079aa40109e151ee1d3ac882cc61a0dec13e51c6a1ac5b14766d81ae3d6b9",
+      "captured_at": "2026-07-04"
+    },
+    "simons-2016-brain-training-pspi": {
+      "title": "Simons et al. 2016, Psychological Science in the Public Interest — Do 'Brain-Training' Programs Work? (PMID 27697851)",
+      "pmid": "27697851",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/27697851/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/simons-2016-brain-training-pspi.htm",
+      "snapshot_sha256": "1275f35373ba55df7faa0fde3597584d0bb51d3cef6e0af3ebb413739fb54f53",
+      "captured_at": "2026-07-04"
+    },
+    "melby-lervag-2013-wm-training": {
+      "title": "Melby-Lervag & Hulme 2013, Developmental Psychology — Is working memory training effective? (PMID 22612437)",
+      "pmid": "22612437",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/22612437/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/melby-lervag-2013-wm-training.htm",
+      "snapshot_sha256": "dde595e0c190b23a57950069e9a685fd66d8ce02d5053fe9d923ce980fc0e8f4",
+      "captured_at": "2026-07-04"
+    },
+    "melby-lervag-2016-far-transfer": {
+      "title": "Melby-Lervag, Redick & Hulme 2016, Perspectives on Psychological Science — no far transfer from WM training (PMC4968033)",
+      "publisher_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4968033/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/melby-lervag-2016-far-transfer.htm",
+      "snapshot_sha256": "c5e0c7f1e75eafc68b8351df78fe9ae12d3a2fac8b6669c529af8f98862f93bf",
+      "captured_at": "2026-07-04"
+    },
+    "stanford-maxplanck-2014-consensus": {
+      "title": "Stanford Center on Longevity & Max Planck Institute 2014 — A Consensus on the Brain Training Industry",
+      "publisher_url": "https://longevity.stanford.edu/a-consensus-on-the-brain-training-industry-from-the-scientific-community-2/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/stanford-maxplanck-2014-consensus.htm",
+      "snapshot_sha256": "ec39029b88529dee8f4947cd6f184aa63baaf9b1bb771272e56beff76bdb4345",
+      "captured_at": "2026-07-04"
+    },
+    "cognitive-training-data-2014-response": {
+      "title": "Cognitive Training Data 2014 — Response to the 'Consensus on the Brain Training Industry' statement",
+      "publisher_url": "https://www.cognitivetrainingdata.org/the-controversy-does-brain-training-work/response-letter/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/cognitive-training-data-2014-response.htm",
+      "snapshot_sha256": "215a31c49a4b907a4141da71cbbebe746f0912693f099c7b648f748eb932a959",
+      "captured_at": "2026-07-04"
+    },
+    "ftc-2016-lumosity-settlement": {
+      "title": "U.S. Federal Trade Commission 2016 — Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges (matter 132-3212)",
+      "publisher_url": "https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/ftc-2016-lumosity-settlement.htm",
+      "snapshot_sha256": "497f6721ada7be4d1096706621bf0abdc273b77a7bfe4bf97840069710f519c0",
+      "captured_at": "2026-07-04"
+    },
+    "ball-2002-active-jama": {
+      "title": "Ball et al. 2002, JAMA — ACTIVE cognitive training RCT in older adults (PMID 12425704)",
+      "publisher_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2916176/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/ball-2002-active-jama.htm",
+      "snapshot_sha256": "ae53ebf51d1eb6ec6fd2dd3c5d32e433a217cd345f4d1234fc279a8491e2e744",
+      "captured_at": "2026-07-04"
+    },
+    "rebok-2014-active-10yr": {
+      "title": "Rebok et al. 2014, J Am Geriatr Soc — Ten-Year Effects of the ACTIVE Cognitive Training Trial (PMID 24417410)",
+      "publisher_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4055506/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/rebok-2014-active-10yr.htm",
+      "snapshot_sha256": "508d69a02ab0161f1b8b30520fb21f8e0a18e812efff44f506de76bc7e90f061",
+      "captured_at": "2026-07-04"
+    },
+    "edwards-2017-speed-dementia": {
+      "title": "Edwards et al. 2017, Alzheimer's & Dementia TRCI — Speed of processing training and lower dementia risk (PMID 29201994)",
+      "publisher_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5700828/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/edwards-2017-speed-dementia.htm",
+      "snapshot_sha256": "3c637d62a56c8a1a1fb6b072e5d8e2dee21077dc5d3789d2708c876025f43135",
+      "captured_at": "2026-07-04"
+    },
+    "hausknecht-2007-retest-meta": {
+      "title": "Hausknecht et al. 2007, Journal of Applied Psychology — Retesting: meta-analysis of coaching & practice effects (PMID 17371085)",
+      "pmid": "17371085",
+      "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/17371085/",
+      "archived_snapshot_url": "https://holisticquality.io/receipts/sources/hausknecht-2007-retest-meta.htm",
+      "snapshot_sha256": "8613ce9fbba54096a22b87f92fe1f0efd6a2727c1aec7bd592fe3a5a69af0c04",
+      "captured_at": "2026-07-04"
     }
   }
 }
